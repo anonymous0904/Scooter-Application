@@ -1,0 +1,3 @@
+C:/Users/andaf/CLionProjects/Labor5_DHG_official/cmake-build-debug/CMakeFiles/Labor5_DHG_official.dir
+C:/Users/andaf/CLionProjects/Labor5_DHG_official/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andaf/CLionProjects/Labor5_DHG_official/cmake-build-debug/CMakeFiles/rebuild_cache.dir
